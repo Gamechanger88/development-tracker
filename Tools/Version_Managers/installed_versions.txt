@@ -4,3 +4,7 @@ Flutter: Flutter 3.29.0 GÇó channel stable GÇó https://github.com/flutter/flutte
 Node.js: 
 Python: 
 Java: java version "17.0.12" 2024-07-16 LTS
+Docker: 
+Kubernetes: 
+PowerShell: 5.1.26100.2161
+VS Code: 1.97.2 e54c774e0add60467559eb0d1e229c6452cf8447 x64[0]

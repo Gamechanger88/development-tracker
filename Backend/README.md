@@ -1,0 +1,1 @@
+﻿Backend folder structure details
